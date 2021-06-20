@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "'n friends",
-    "currentPage": "page4.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2321,7 +2321,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/beeld-1-rgb-2000x1414.jpg",
+                "image": "@PROJECT_PATH@/assets/images/beeld-1-rgb-kopie-kopiren-2000x1414.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
